@@ -3,7 +3,7 @@ const path = require('path');
 
 const versions = ['v1'];
 const input_folder = path.join(__dirname, '..', 'src', 'framework');
-const output_folder = path.join(__dirname, '..', 'build', 'framework');
+const output_folder = path.join(__dirname, '..', 'dist', 'framework');
 
 
 // Helpful functions
